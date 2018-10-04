@@ -1,0 +1,21 @@
+
+.registered-users {
+    margin: 10px;
+    padding: 10px;
+}
+
+
+
+.user-name {
+    font-weight: bold;
+    margin: 10px;
+
+}
+
+.content {
+    padding-top: 65px;
+}
+
+.register_date {
+    color: rgba(1, 1, 1, 0.3);
+}

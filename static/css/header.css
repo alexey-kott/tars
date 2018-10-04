@@ -1,0 +1,39 @@
+.header-menu {
+    position: fixed;
+    top: 0;
+    height: 50px;
+    width: 100%;
+    background: #466f9e;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu-items{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.menu-item{
+    display: inline-block;
+    max-height: 100px;
+    margin: 0 20px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.menu-item a{
+    color: #fff;
+    font-weight: bold;
+}
+
+.menu-item img{
+    height: 100%;
+}
+
+
